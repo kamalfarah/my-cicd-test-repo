@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: kamalfarah/hello-world:11
+        image: kamalfarah/hello-world:12
         ports:
         - containerPort: 3000
 ---
