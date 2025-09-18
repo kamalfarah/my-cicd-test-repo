@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: kamalfarah/hello-world:latest  # This will be updated by Jenkins
+        image: kamalfarah/hello-world:3
         ports:
         - containerPort: 3000
 ---
